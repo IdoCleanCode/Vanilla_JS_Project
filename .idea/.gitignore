@@ -3,3 +3,18 @@
 /workspace.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+
+# Node modules
+node_modules/
+
+# Build output
+build/
+
+# JetBrains IDE files
+.idea/
+
+# Log files
+*.log
+
+# Environment variable files
+.env
